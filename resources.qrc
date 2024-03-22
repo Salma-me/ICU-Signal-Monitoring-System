@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Ui icons\Ui icons\close icon.png</file>
+    <file>Ui icons\Ui icons\colors icon.png</file>
+    <file>Ui icons\Ui icons\export icon.png</file>
+    <file>Ui icons\Ui icons\move to Left icon.png</file>
+    <file>Ui icons\Ui icons\move to Right icon.png</file>
+    <file>Ui icons\Ui icons\open files icon.png</file>
+    <file>Ui icons\Ui icons\play-pause icon.png</file>
+    <file>Ui icons\Ui icons\rewind icon.png</file>
+    <file>Ui icons\Ui icons\snapshot icon.png</file>
+    <file>Ui icons\Ui icons\stop icon.png</file>
+    <file>Ui icons\Ui icons\zoom in icon.png</file>
+    <file>Ui icons\Ui icons\zoom out icon.png</file>
+</qresource>
+</RCC>
