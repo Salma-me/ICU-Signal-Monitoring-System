@@ -21,7 +21,7 @@ Monitoring vital signals is a crucial aspect of intensive care units (ICUs). Thi
 ## Installation
 * Clone the repository:
 ```
-git clone <repository_url>
+git clone <https://github.com/Salma-me/ICU-Signal-Monitoring-System.git>
 ```
 * Install dependencies:
 ```
